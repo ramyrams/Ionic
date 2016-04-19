@@ -1,5 +1,8 @@
 # Ionic
 
+Ionic vs ionic Enterprise
+
+
 ## Tools
 play.ionic.io
 
@@ -39,6 +42,9 @@ https://github.com/lockeyo/Ionic-Framework-Resources
 
 https://github.com/mikehaas763/generator-ionic
 https://github.com/cowfox/ionic-boilerplate
+
+https://thinkster.io/ionic-framework-tutorial
+
 
 ## Code Snippets
 ````java
