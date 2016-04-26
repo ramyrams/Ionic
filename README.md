@@ -14,6 +14,7 @@ Ionic vs ionic Enterprise
 ## Best Practice
 
 ## Projects
+* [Realworld Examples](https://github.com/lockeyo/Ionic-Framework-Resources/blob/master/realworld-examples.md)
 * [Instachat](https://github.com/gregavola/instachat)
 * [Ionic Recorder](https://github.com/tracktunes/ionic-recorder)
 * [Generator Ionic](https://github.com/diegonetto/generator-ionic)
