@@ -16,9 +16,6 @@ Ionic vs ionic Enterprise
 ## Projects
 * [Instachat](https://github.com/gregavola/instachat)
 * [Ionic Recorder](https://github.com/tracktunes/ionic-recorder)
-
-## Seed Projects
-
 * [Generator Ionic](https://github.com/diegonetto/generator-ionic)
 * [building a complete mobile app with ionic framework](https://github.com/ionicthemes/building-a-complete-mobile-app-with-ionic-framework)
 * [Production ready apps with ionic framework](https://github.com/airpair/production-ready-apps-with-ionic-framework)
@@ -34,7 +31,6 @@ Ionic vs ionic Enterprise
 * [Ionic framework tutorial](https://thinkster.io/ionic-framework-tutorial)
 
 ## Good List
-
 
 * [40+ Ionic Framework 2 Resources](http://mcgivery.com/15-ionic-framework-2-resources/)
 * [240+ Ionic Framework Resources](http://mcgivery.com/100-ionic-framework-resources/)
