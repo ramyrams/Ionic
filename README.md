@@ -51,7 +51,7 @@ Ionic vs ionic Enterprise
 * [Ionic Framework Demo - Matt Stauffer](https://www.youtube.com/watch?v=nh9EARpk-dc)
 * [Ionic Command Line Interface (CLI)](http://www.joshmorony.com/getting-started-with-the-ionic-command-line-interface-cli/)
 * [Getting Started with Ionic](http://blog.teamtreehouse.com/getting-started-ionic)
-* [](http://blog.budacode.com/2015/06/09/ionic-angularjs-and-firebase-equals-hybrid-heaven/
+* [Ionic Angularjs and Firebase equals hybrid heaven](http://blog.budacode.com/2015/06/09/ionic-angularjs-and-firebase-equals-hybrid-heaven/
 * [Using the $http Service](http://www.joshmorony.com/part-1-using-the-http-service-in-ionic-to-dynamically-load-google-map-markers/)
 * [Monitoring Online and Offline States in an Ionic Application](http://www.joshmorony.com/monitoring-online-and-offline-states-in-an-ionic-application/)
 * [Installing ngCordova in an Ionic Application](http://www.joshmorony.com/installing-ngcordova-in-an-ionic-application/)
