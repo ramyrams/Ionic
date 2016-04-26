@@ -74,3 +74,35 @@ sudo ionic build ios
 ios-sim launch platforms/ios/build/emulator/your_ionic.app
 ''''
 
+
+Good List
+http://mcgivery.com/100-ionic-framework-resources/
+
+http://mcgivery.com/15-ionic-framework-2-resources/
+
+
+http://mcgivery.com/hello-world-first-ionic-framework-app/
+http://mcgivery.com/hello-backend-your-second-ionic-framework-app/
+http://mcgivery.com/hello-modules-your-third-ionic-framework-app/
+http://mcgivery.com/debugging-ionic-apps-chrome-developer-tools/
+http://mcgivery.com/using-custom-url-schemes-ionic-framework-app/
+http://mcgivery.com/ionic-master-detail-pattern/
+http://mcgivery.com/modules-ionicangular/
+http://mcgivery.com/ionic-using-factories-and-web-services-for-dynamic-data/
+
+
+http://blog.backand.com/angularjs-mobile-apps-with-ionic-and-backand/
+
+http://ionicframework.com/present-ionic/slides/#/50
+http://slides.com/arun_harvard/ionic#/6
+https://www.youtube.com/watch?v=nh9EARpk-dc
+http://www.joshmorony.com/getting-started-with-the-ionic-command-line-interface-cli/
+http://blog.teamtreehouse.com/getting-started-ionic
+http://blog.budacode.com/2015/06/09/ionic-angularjs-and-firebase-equals-hybrid-heaven/
+
+http://www.joshmorony.com/part-1-using-the-http-service-in-ionic-to-dynamically-load-google-map-markers/
+http://www.joshmorony.com/monitoring-online-and-offline-states-in-an-ionic-application/
+http://www.joshmorony.com/installing-ngcordova-in-an-ionic-application/
+http://www.joshmorony.com/integrating-google-maps-with-an-ionic-application/
+
+https://www.script-tutorials.com/ionic-framework/
