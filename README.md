@@ -76,33 +76,33 @@ ios-sim launch platforms/ios/build/emulator/your_ionic.app
 
 
 Good List
-http://mcgivery.com/100-ionic-framework-resources/
-
-http://mcgivery.com/15-ionic-framework-2-resources/
 
 
-http://mcgivery.com/hello-world-first-ionic-framework-app/
-http://mcgivery.com/hello-backend-your-second-ionic-framework-app/
-http://mcgivery.com/hello-modules-your-third-ionic-framework-app/
-http://mcgivery.com/debugging-ionic-apps-chrome-developer-tools/
-http://mcgivery.com/using-custom-url-schemes-ionic-framework-app/
-http://mcgivery.com/ionic-master-detail-pattern/
-http://mcgivery.com/modules-ionicangular/
-http://mcgivery.com/ionic-using-factories-and-web-services-for-dynamic-data/
+* [40+ Ionic Framework 2 Resources](http://mcgivery.com/15-ionic-framework-2-resources/)
+* [240+ Ionic Framework Resources](http://mcgivery.com/100-ionic-framework-resources/)
+
+* [Hello World: Your First Ionic Framework App](http://mcgivery.com/hello-world-first-ionic-framework-app/)
+* [Hello Backend: Your Second Ionic Framework App](http://mcgivery.com/hello-backend-your-second-ionic-framework-app/)
+* [Hello Modules: Your Third Ionic Framework App](http://mcgivery.com/hello-modules-your-third-ionic-framework-app/)
+* [Debugging Ionic Apps using Chrome Developer Tools](http://mcgivery.com/debugging-ionic-apps-chrome-developer-tools/)
+* [Using Custom URL Schemes In Your Ionic Framework App](http://mcgivery.com/using-custom-url-schemes-ionic-framework-app/)
+* [Ionic: Master Detail Pattern](http://mcgivery.com/ionic-master-detail-pattern/)
+* [Modules in Ionic/Angular](http://mcgivery.com/modules-ionicangular/)
+* [Ionic: Using Factories and Web Services for Dynamic Data](http://mcgivery.com/ionic-using-factories-and-web-services-for-dynamic-data/)
 
 
-http://blog.backand.com/angularjs-mobile-apps-with-ionic-and-backand/
+* [AngularJS Mobile Apps with Ionic and Backand](http://blog.backand.com/angularjs-mobile-apps-with-ionic-and-backand/
 
-http://ionicframework.com/present-ionic/slides/#/50
-http://slides.com/arun_harvard/ionic#/6
-https://www.youtube.com/watch?v=nh9EARpk-dc
-http://www.joshmorony.com/getting-started-with-the-ionic-command-line-interface-cli/
-http://blog.teamtreehouse.com/getting-started-ionic
-http://blog.budacode.com/2015/06/09/ionic-angularjs-and-firebase-equals-hybrid-heaven/
+* [Present Ionic](http://ionicframework.com/present-ionic/slides/#/1)
 
-http://www.joshmorony.com/part-1-using-the-http-service-in-ionic-to-dynamically-load-google-map-markers/
-http://www.joshmorony.com/monitoring-online-and-offline-states-in-an-ionic-application/
-http://www.joshmorony.com/installing-ngcordova-in-an-ionic-application/
-http://www.joshmorony.com/integrating-google-maps-with-an-ionic-application/
+* [Ionic Framework Demo - Matt Stauffer](https://www.youtube.com/watch?v=nh9EARpk-dc)
+* [Ionic Command Line Interface (CLI)](http://www.joshmorony.com/getting-started-with-the-ionic-command-line-interface-cli/)
+* [Getting Started with Ionic](http://blog.teamtreehouse.com/getting-started-ionic)
+* [](http://blog.budacode.com/2015/06/09/ionic-angularjs-and-firebase-equals-hybrid-heaven/
+
+* [Using the $http Service](http://www.joshmorony.com/part-1-using-the-http-service-in-ionic-to-dynamically-load-google-map-markers/)
+* [Monitoring Online and Offline States in an Ionic Application](http://www.joshmorony.com/monitoring-online-and-offline-states-in-an-ionic-application/)
+* [Installing ngCordova in an Ionic Application](http://www.joshmorony.com/installing-ngcordova-in-an-ionic-application/)
+* [Integrating Google Maps with an Ionic Application](http://www.joshmorony.com/integrating-google-maps-with-an-ionic-application/)
 
 https://www.script-tutorials.com/ionic-framework/
