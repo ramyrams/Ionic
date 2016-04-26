@@ -14,8 +14,8 @@ Ionic vs ionic Enterprise
 ## Best Practice
 
 ## Projects
-https://github.com/gregavola/instachat
-https://github.com/tracktunes/ionic-recorder
+* [Instachat](https://github.com/gregavola/instachat)
+* [Ionic Recorder](https://github.com/tracktunes/ionic-recorder)
 
 ## Seed Projects
 
@@ -49,7 +49,7 @@ https://github.com/tracktunes/ionic-recorder
 * [Ionic: Using Factories and Web Services for Dynamic Data](http://mcgivery.com/ionic-using-factories-and-web-services-for-dynamic-data/)
 
 
-* [AngularJS Mobile Apps with Ionic and Backand](http://blog.backand.com/angularjs-mobile-apps-with-ionic-and-backand/
+* [AngularJS Mobile Apps with Ionic and Backand](http://blog.backand.com/angularjs-mobile-apps-with-ionic-and-backand/)
 
 * [Present Ionic](http://ionicframework.com/present-ionic/slides/#/1)
 
