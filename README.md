@@ -1,5 +1,17 @@
 # Ionic
 
+## Quick Start
+* [Ionic Cheatsheet](https://devdactic.com/ionic-cheatsheet/)
+
+## Documentation
+* [Ionic Documentation](http://docs.ionic.io/docs)
+
+## Ionic CLI
+* [CLI commands](https://github.com/TwoGears/hakomo-guides/wiki/Ionic-cheatsheet)
+* [Ionic CLI](https://github.com/driftyco/ionic-cli)
+
+
+## Question
 Ionic vs ionic Enterprise
 
 
@@ -62,6 +74,9 @@ Ionic vs ionic Enterprise
 ### Prerequisite
 ```java
 npm install -g cordova ionic
+
+npm install -g ios-sim
+npm install -g ios-deploy
 ```
 
 ### iOS Prerequisite
@@ -72,6 +87,7 @@ npm install -g cordova ionic
 npm install -g ios-sim
 
 # Add iOS platform for cordova
+ionic platform remove ios
 ionic platform add ios
 
 # Build Debug version
@@ -85,6 +101,10 @@ ionic emulate ios
 
 # Run your code on real device if connected
 ionic run ios
+
+ios-sim launch platforms/ios/build/emulator/your_ionic.app
+
+ionic serve
 ```
 
 ### Android Prerequisite
@@ -110,6 +130,8 @@ ionic emulate android
 
 # Run your code on real device if connected
 ionic run android
+
+ionic serve
 ```
 
 ### Add plugins
