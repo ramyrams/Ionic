@@ -18,7 +18,7 @@ Ionic vs ionic Enterprise
 ## Tools
 play.ionic.io
 
-Ionic vs ionic Enterprise
+
 
 ## Awesome List
 * [Ionic Adventures](https://github.com/juarezpaf/ionic-adventures) - The ultimate guide to learn Ionic 
@@ -77,6 +77,23 @@ npm install -g cordova ionic
 
 npm install -g ios-sim
 npm install -g ios-deploy
+
+#Update Ionic lib
+ionic lib update
+
+#Starting an Ionic App
+ionic start myapp [template]
+
+ionic serve [options]
+ionic setup sass 
+ionic serve --lab
+
+#Specifying an IP Address to use
+ionic serve --address 68.54.96.105
+
+#Gathering information about your runtime
+#ionic info
+
 ```
 
 ### iOS Prerequisite
@@ -156,6 +173,8 @@ ionic resources --splash
 ionic login
 ionic upload
 ionic share EMAIL
+
+
 ```
 
 
