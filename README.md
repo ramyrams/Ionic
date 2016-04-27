@@ -58,31 +58,86 @@ Ionic vs ionic Enterprise
 
 
 ## Code Snippets
-````java
-npm install -g cordova ionic ios-sim
-ionic start myApp tabs
 
+### Prerequisite
+```java
+npm install -g cordova ionic
+```
 
-cd myApp
+### iOS Prerequisite
+* OSX
+* Xcode
+
+```java
+npm install -g ios-sim
+
+# Add iOS platform for cordova
 ionic platform add ios
+
+# Build Debug version
 ionic build ios
-ionic emulate ios 
-ionic run andoird 
-ionic serve
 
-cordova prepare ios
+# Build Prod version
+ionic build ios --release 
 
-sudo npm uninstall -g ios-sim
-sudo npm install -g ios-sim
-sudo npm install -g ios-deploy
-.
+# Run your code within the emulator
+ionic emulate ios
 
-rm -rf platforms
-sudo ionic platform remove ios
-sudo ionic platform add ios
-sudo ionic build ios
+# Run your code on real device if connected
+ionic run ios
+```
 
-ios-sim launch platforms/ios/build/emulator/your_ionic.app
-''''
+### Android Prerequisite
+* Android SDK
+* Ant
+
+
+```java
+# Path to your sdk in your file system
+export ANDROID_HOME=~/Library/Android/sdk
+
+# Add iOS platform for cordova
+ionic platform add android
+
+# Build Debug version
+ionic build android
+
+# Build Prod version
+ionic build android --release 
+
+# Run your code within the emulator
+ionic emulate android
+
+# Run your code on real device if connected
+ionic run android
+```
+
+### Add plugins
+```java
+# add a toast plugin
+ionic plugin add nl.x-services.plugins.toast
+
+Splashscreens and Icons
+
+# generate both icons and splashscreens
+ionic resources
+
+# generate only icons
+ionic resources --icon
+
+# generate only splashscreens
+ionic resources --splash
+```
+
+### Ionic View
+```java
+ionic login
+ionic upload
+ionic share EMAIL
+```
+
+
+
+
 
 
