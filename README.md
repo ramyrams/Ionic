@@ -18,7 +18,19 @@ Ionic vs ionic Enterprise
 ## Tools
 play.ionic.io
 
+## Debug Ionic
 
+Debug Ionic Android Application On Mobile Devices or Emulators
+```java
+#Method #1
+ionic run android -l -c
+
+#Method #2
+chrome://inspect/#devices
+
+#Method #3
+use Android Device Monitor provided in Android sdk tools
+```
 
 ## Awesome List
 * [Ionic Adventures](https://github.com/juarezpaf/ionic-adventures) - The ultimate guide to learn Ionic 
