@@ -37,6 +37,10 @@ use Android Device Monitor provided in Android sdk tools
 ## Awesome List
 * [Ionic Adventures](https://github.com/juarezpaf/ionic-adventures) - The ultimate guide to learn Ionic 
 
+## Starter Apps
+* [A Comprehensive List Of Ionic Starter Apps](http://www.gajotres.net/a-comprehensive-list-of-ionic-starter-apps/)
+
+
 ## Best Practice
 
 ## Projects
