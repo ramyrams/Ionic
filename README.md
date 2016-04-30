@@ -3,6 +3,8 @@
 ## Quick Start
 * [Ionic Cheatsheet](https://devdactic.com/ionic-cheatsheet/)
 
+## Hello World
+* [Getting Started with Ionic Framework](http://www.blaiseliu.com/getting-started-with-ionic-framework/)
 ## Documentation
 * [Ionic Documentation](http://docs.ionic.io/docs)
 
