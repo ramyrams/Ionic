@@ -5,6 +5,7 @@
 
 ## Hello World
 * [Getting Started with Ionic Framework](http://www.blaiseliu.com/getting-started-with-ionic-framework/)
+
 ## Documentation
 * [Ionic Documentation](http://docs.ionic.io/docs)
 
@@ -198,5 +199,9 @@ ionic share EMAIL
 
 
 
-
+	
+* [Ionic CLI](https://github.com/driftyco/ionic-cli)
+* [Ionic](https://github.com/driftyco/ionic)
+* [ionic Adventures](https://github.com/juarezpaf/ionic-adventures)
+* [Ionic Base App](https://github.com/driftyco/ionic-app-base)
 
